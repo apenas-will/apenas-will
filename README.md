@@ -7,14 +7,14 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=apenas-will&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=apenas-will&theme=tokyonight&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=apenas-will&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=apenas-will&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
@@ -32,7 +32,7 @@
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=apenas-will&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=apenas-will&column=8&theme=tokyonight&no-frame=true&no-bg=true"
     />
   </a>
 </p>
