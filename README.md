@@ -1,4 +1,4 @@
-## Olá, pode me chamr de Will!
+## Olá, pode me chamar de Will!
 
 ### ⚙️ GitHub Analytics
 
